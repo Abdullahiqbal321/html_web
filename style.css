@@ -1,0 +1,28 @@
+a{
+    color:red;
+}
+
+nav ul{
+    text-align: center;
+    list-style: none;
+    background-color: antiquewhite;
+   
+}
+
+nav li{
+
+    display: inline-block;
+    margin: 10px;
+    text-transform: uppercase;
+    border-bottom: 5px soid blue;
+}
+
+    
+
+
+h1,h2,h3,p{
+    border-bottom: 5px solid antiquewhite;
+    color:brown;
+   padding-top: 10px;
+
+}
